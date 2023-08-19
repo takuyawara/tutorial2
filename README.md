@@ -1,1 +1,1 @@
-# tutorial2
+GitHub練習用のリポジトリです
