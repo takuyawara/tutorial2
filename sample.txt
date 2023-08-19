@@ -1,1 +1,2 @@
-github
+githubのうちのtutorial2のリポジトリでの動作です
+tutorial2はリモートリポジトリからクローンされて作られています
